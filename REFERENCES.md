@@ -1,1 +1,9 @@
 - [Shelly H&T](https://www.shelly.com/en/products/shop/shelly-h-and-t-white?_gl=1*1n2ycot*_up*MQ..&gclid=Cj0KCQiAtOmsBhCnARIsAGPa5yYrJ16A8xrbEDGwegTYZxqN2BdbSjJf8CMlnXs8Q2fZ3nqHLR4DXdkaAmGXEALw_wcB)
+- [Mongoose OS](https://mongoose-os.com/case-studies/shelly.html)
+- [Mongoose OS quick start quide](https://mongoose-os.com/docs/mongoose-os/quickstart/setup.md)
+- [Secure remote device management with Mongoose OS](https://mongoose-os.com/blog/secure-remote-device-management-with-mongoose-os-and-aws-iot-for-esp32-esp8266-ti-cc3200-stm32/)
+- [api_http.js](https://github.com/mongoose-os-libs/mjs/blob/master/fs/api_http.js)
+- [Advanced Guide - JS](https://mongoose-os.com/docs/mongoose-os/quickstart/develop-in-js.md)
+- [A DHT Mongoose OS library](https://github.com/mongoose-os-libs/dht/blob/master/src/mgos_dht.c)
+- [A DHT Mongoose OS library](https://github.com/mongoose-os-libs/dht/blob/master/src/mgos_dht.c)
+- https://youtu.be/o05sBDfaFO8?si=TZsU8x147sW627Wp
